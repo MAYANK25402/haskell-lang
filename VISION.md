@@ -17,7 +17,7 @@
 * We'll be providing a Hoogle search for the whole of that package
   database
 
-## Ensuring site quality
+## Ensuring the site quality
 
 One of the problems with the old web sites (wiki, haskell.org) is that
 they catered just for the newbie audience, which lead to a kind of
